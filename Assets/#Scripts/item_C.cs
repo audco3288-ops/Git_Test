@@ -3,7 +3,8 @@ using UnityEngine;
 public class item_C : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Start3
+        ()
     {
         
     }
